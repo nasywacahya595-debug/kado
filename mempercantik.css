@@ -1,0 +1,18 @@
+a{
+    display: inline-block;
+  margin: 0 0.5rem;
+  animation: shakeY; 
+  animation-duration: 2s;
+  margin-top: 1rem;
+    background-color: rgba(67, 70, 244, 0.694);
+    color: white;
+    display: block;
+    filter: drop-shadow(0 0 10px #59adf2);
+    border-radius: 10px;
+    
+}
+
+a:hover{
+  background-color: #114e76;
+  transform: scale(1.1);
+}
